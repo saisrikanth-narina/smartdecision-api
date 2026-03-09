@@ -23,7 +23,7 @@ SmartDecision API is a production-grade Java backend service that processes cust
 
 ## Getting Started
 ```bash
-git clone https://github.com/saisrikanth-dev/smartdecision-api
+git clone https://github.com/saisrikanth-narina/smartdecision-api
 cd smartdecision-api
 ./mvnw spring-boot:run
 ```
